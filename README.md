@@ -6,16 +6,17 @@ This Is A python Sniffer To Get Packets Data And source and Destenation IP and M
 - >   git clone https://github.com/hackerone4x/Dark-Sniffer
 - >   cd Dark-Sniffer
 - >   pip3 install -r requirements.txt
-- >   python3 sniffer.py
+- >   sudo python3 sniffer.py
 ________________________________________________________________________________________________________________________________________________ 
 #### Useage :
-- >     python3 sniffer.py  And Enter Your InterFace Name  
+- >     sudo python3 sniffer.py  And Enter Your InterFace Name  
  _______________________________________________________________________________________________________________________________________________
  
 
- ![Screenshot3](b3.png)
+ ![Screenshot](screen.png)
  _______________________________________________________________________________________________________________________________________________
  
-
+ ![Screenshot1](screen2.png)
+ _______________________________________________________________________________________________________________________________________________
  
  
